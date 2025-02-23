@@ -2,8 +2,11 @@
 
 # Pre-requisites
 java 17
+
 mvn
+
 springBoot
+
 npm for frontend
 
 # Description
