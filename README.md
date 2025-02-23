@@ -1,7 +1,7 @@
 # simpleSpringBootApplicationwithDB
 
 # Pre-requisites
-java 17
+java 21
 
 mvn
 
